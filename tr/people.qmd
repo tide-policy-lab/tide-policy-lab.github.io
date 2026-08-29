@@ -3,7 +3,7 @@ title: "Ekip"
 description: "TIDE Lab üyeleri."
 ---
 
-TIDE Lab'ın dört üyesi de İstanbul Medeniyet Üniversitesi İktisat Bölümünde tam zamanlı öğretim üyesidir.
+TIDE Lab'ın dört üyesi de [İstanbul Medeniyet Üniversitesi](https://www.medeniyet.edu.tr/en) [İktisat Bölümünde](https://iktisat.medeniyet.edu.tr/en) tam zamanlı öğretim üyesidir ve bölümün [akademik kadro sayfasında](https://iktisat.medeniyet.edu.tr/en/staff/academic) yer almaktadır.
 
 ::: {.lab-grid}
 ::: {.lab-card .member-card}
@@ -17,7 +17,7 @@ MT
 Yürütücü · Profesör
 :::
 
-İktisat Profesörü, İstanbul Medeniyet Üniversitesi.
+Profesör, [İktisat Bölümü](https://iktisat.medeniyet.edu.tr/en), [İstanbul Medeniyet Üniversitesi](https://www.medeniyet.edu.tr/en).
 
 [E-posta](mailto:murat.tasdemir@medeniyet.edu.tr) · [Google Scholar](https://scholar.google.com/citations?user=KSkQcE8AAAAJ&hl=en) · [GitHub](https://github.com/tide-policy-lab)
 :::
@@ -34,7 +34,7 @@ HK
 Araştırmacı · Profesör
 :::
 
-İstanbul Medeniyet Üniversitesi İktisat Bölümü öğretim üyesi.
+Profesör, [İktisat Bölümü](https://iktisat.medeniyet.edu.tr/en), [İstanbul Medeniyet Üniversitesi](https://www.medeniyet.edu.tr/en).
 
 [Google Scholar](https://scholar.google.com/citations?user=rEf2MKwAAAAJ&hl=tr)
 :::
@@ -51,7 +51,7 @@ DD
 Araştırmacı · Doçent
 :::
 
-İstanbul Medeniyet Üniversitesi İktisat Bölümü öğretim üyesi.
+Doçent, [İktisat Bölümü](https://iktisat.medeniyet.edu.tr/en), [İstanbul Medeniyet Üniversitesi](https://www.medeniyet.edu.tr/en).
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=AOvtNZYAAAAJ)
 :::
@@ -68,7 +68,7 @@ Araştırmacı · Doçent
 Araştırmacı · Doktor Öğretim Üyesi
 :::
 
-İstanbul Medeniyet Üniversitesi İktisat Bölümü öğretim üyesi.
+Doktor Öğretim Üyesi, [İktisat Bölümü](https://iktisat.medeniyet.edu.tr/en), [İstanbul Medeniyet Üniversitesi](https://www.medeniyet.edu.tr/en).
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=QOOQkaAAAAAJ)
 :::

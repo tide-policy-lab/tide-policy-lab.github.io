@@ -65,4 +65,4 @@ Eğitime erişim, beceriler, beşerî sermaye oluşumu, kuşaklar arası hareket
 
 ## İstanbul'da yeni bir araştırma topluluğu
 
-TIDE Lab, **İstanbul Medeniyet Üniversitesi** bünyesinde faaliyet göstermektedir. İlk sürümümüz laboratuvarı ve araştırma gündemini tanıtmaktadır. Projeler, çalışma tebliğleri, etkinlikler ve araştırma kaynakları program geliştikçe eklenecektir.
+TIDE Lab, [İstanbul Medeniyet Üniversitesi](https://www.medeniyet.edu.tr/en) bünyesinde faaliyet göstermektedir. İlk sürümümüz laboratuvarı ve araştırma gündemini tanıtmaktadır. Projeler, çalışma tebliğleri, etkinlikler ve araştırma kaynakları program geliştikçe eklenecektir.

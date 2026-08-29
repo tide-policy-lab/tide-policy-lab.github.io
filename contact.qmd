@@ -6,7 +6,8 @@ description: "Contact TIDE Lab at Istanbul Medeniyet University."
 ## TIDE Lab
 
 Technology, Immigration, Demography and Education Research Lab  
-Istanbul Medeniyet University  
+[Department of Economics](https://iktisat.medeniyet.edu.tr/en)  
+[Istanbul Medeniyet University](https://www.medeniyet.edu.tr/en)  
 Istanbul, Türkiye
 
 **Principal Investigator:** Murat Taşdemir  

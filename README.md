@@ -1,6 +1,6 @@
 # TIDE Lab website
 
-This repository contains the bilingual Quarto website for the Technology, Immigration, Demography and Education Research Lab at Istanbul Medeniyet University.
+This repository contains the bilingual Quarto website for the Technology, Immigration, Demography and Education Research Lab in the [Department of Economics](https://iktisat.medeniyet.edu.tr/en) at [Istanbul Medeniyet University](https://www.medeniyet.edu.tr/en).
 
 - English is published at the site root.
 - Turkish is published under `/tr/`.

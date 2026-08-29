@@ -35,7 +35,9 @@ website:
         href: https://github.com/tide-policy-lab
   page-footer:
     left: "© 2026 TIDE Lab"
-    center: "Istanbul Medeniyet University"
+    center:
+      - text: "Istanbul Medeniyet University"
+        href: https://www.medeniyet.edu.tr/en
     right:
       - text: GitHub
         href: https://github.com/tide-policy-lab

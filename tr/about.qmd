@@ -39,4 +39,4 @@ Kanıtların sınırlarını aşmadan, araştırma sonuçlarını kamusal tartı
 
 ## Kurumsal yapı
 
-TIDE Lab, İstanbul'daki **İstanbul Medeniyet Üniversitesi** bünyesinde faaliyet gösteren bir araştırma grubudur.
+TIDE Lab, İstanbul'daki [İstanbul Medeniyet Üniversitesi](https://www.medeniyet.edu.tr/en) [İktisat Bölümü](https://iktisat.medeniyet.edu.tr/en) bünyesinde faaliyet gösteren bir araştırma grubudur. Bölümün güncel öğretim üyesi bilgilerine [akademik kadro sayfasından](https://iktisat.medeniyet.edu.tr/en/staff/academic) ulaşılabilir.

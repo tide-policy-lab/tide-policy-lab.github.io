@@ -6,7 +6,8 @@ description: "İstanbul Medeniyet Üniversitesi TIDE Lab iletişim bilgileri."
 ## TIDE Lab
 
 Teknoloji, Göç, Demografi ve Eğitim Araştırmaları Laboratuvarı  
-İstanbul Medeniyet Üniversitesi  
+[İktisat Bölümü](https://iktisat.medeniyet.edu.tr/en)  
+[İstanbul Medeniyet Üniversitesi](https://www.medeniyet.edu.tr/en)  
 İstanbul, Türkiye
 
 **Yürütücü:** Murat Taşdemir  

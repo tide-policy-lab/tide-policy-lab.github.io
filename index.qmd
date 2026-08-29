@@ -65,7 +65,7 @@ Education, skills, human-capital formation, intergenerational mobility, and equa
 
 ## A new research community in Istanbul
 
-TIDE Lab is based at **Istanbul Medeniyet University**. Our first release introduces the lab and its research agenda; projects, working papers, events, and research resources will be added as the programme develops.
+TIDE Lab is based at [Istanbul Medeniyet University](https://www.medeniyet.edu.tr/en). Our first release introduces the lab and its research agenda; projects, working papers, events, and research resources will be added as the programme develops.
 
 ::: {.tide-note}
 **Interested in our work?** Visit the [contact page](contact.qmd) to reach the lab or explore our public work on [GitHub](https://github.com/tide-policy-lab).

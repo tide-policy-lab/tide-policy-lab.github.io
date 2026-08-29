@@ -3,7 +3,7 @@ title: "People"
 description: "Members of TIDE Lab."
 ---
 
-TIDE Lab's four members are full-time faculty in the Department of Economics at Istanbul Medeniyet University.
+TIDE Lab's four members are listed in the [academic staff directory](https://iktisat.medeniyet.edu.tr/en/staff/academic) as full-time faculty in the [Department of Economics](https://iktisat.medeniyet.edu.tr/en) at [Istanbul Medeniyet University](https://www.medeniyet.edu.tr/en).
 
 ::: {.lab-grid}
 ::: {.lab-card .member-card}
@@ -17,7 +17,7 @@ MT
 Principal Investigator · Professor
 :::
 
-Professor of Economics, Istanbul Medeniyet University.
+Professor, [Department of Economics](https://iktisat.medeniyet.edu.tr/en), [Istanbul Medeniyet University](https://www.medeniyet.edu.tr/en).
 
 [Email](mailto:murat.tasdemir@medeniyet.edu.tr) · [Google Scholar](https://scholar.google.com/citations?user=KSkQcE8AAAAJ&hl=en) · [GitHub](https://github.com/tide-policy-lab)
 :::
@@ -34,7 +34,7 @@ HK
 Researcher · Professor
 :::
 
-Professor of Economics, Istanbul Medeniyet University.
+Professor, [Department of Economics](https://iktisat.medeniyet.edu.tr/en), [Istanbul Medeniyet University](https://www.medeniyet.edu.tr/en).
 
 [Google Scholar](https://scholar.google.com/citations?user=rEf2MKwAAAAJ&hl=tr)
 :::
@@ -51,7 +51,7 @@ DD
 Researcher · Associate Professor
 :::
 
-Associate Professor of Economics, Istanbul Medeniyet University.
+Associate Professor, [Department of Economics](https://iktisat.medeniyet.edu.tr/en), [Istanbul Medeniyet University](https://www.medeniyet.edu.tr/en).
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=AOvtNZYAAAAJ)
 :::
@@ -68,7 +68,7 @@ Associate Professor of Economics, Istanbul Medeniyet University.
 Researcher · Assistant Professor
 :::
 
-Assistant Professor of Economics, Istanbul Medeniyet University.
+Assistant Professor, [Department of Economics](https://iktisat.medeniyet.edu.tr/en), [Istanbul Medeniyet University](https://www.medeniyet.edu.tr/en).
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=QOOQkaAAAAAJ)
 :::
