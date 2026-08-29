@@ -1,0 +1,76 @@
+---
+title: "People"
+description: "Members of TIDE Lab."
+---
+
+TIDE Lab's four members are full-time faculty in the Department of Economics at Istanbul Medeniyet University.
+
+::: {.lab-grid}
+::: {.lab-card .member-card}
+::: {.member-mark}
+MT
+:::
+::: {}
+### Murat Taşdemir, PhD
+
+::: {.member-role}
+Principal Investigator · Professor
+:::
+
+Professor of Economics, Istanbul Medeniyet University.
+
+[Email](mailto:murat.tasdemir@medeniyet.edu.tr) · [Google Scholar](https://scholar.google.com/citations?user=KSkQcE8AAAAJ&hl=en) · [GitHub](https://github.com/tide-policy-lab)
+:::
+:::
+
+::: {.lab-card .member-card}
+::: {.member-mark}
+HK
+:::
+::: {}
+### Hüseyin Kaya, PhD
+
+::: {.member-role}
+Researcher · Professor
+:::
+
+Professor of Economics, Istanbul Medeniyet University.
+
+[Google Scholar](https://scholar.google.com/citations?user=rEf2MKwAAAAJ&hl=tr)
+:::
+:::
+
+::: {.lab-card .member-card}
+::: {.member-mark}
+DD
+:::
+::: {}
+### Dinçer Dedeoğlu, PhD
+
+::: {.member-role}
+Researcher · Associate Professor
+:::
+
+Associate Professor of Economics, Istanbul Medeniyet University.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=AOvtNZYAAAAJ)
+:::
+:::
+
+::: {.lab-card .member-card}
+::: {.member-mark}
+ÖS
+:::
+::: {}
+### Özer Selçuk, PhD
+
+::: {.member-role}
+Researcher · Assistant Professor
+:::
+
+Assistant Professor of Economics, Istanbul Medeniyet University.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=QOOQkaAAAAAJ)
+:::
+:::
+:::

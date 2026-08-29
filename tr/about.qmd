@@ -1,0 +1,42 @@
+---
+title: "TIDE Hakkında"
+description: "Teknoloji, Göç, Demografi ve Eğitim Araştırmaları Laboratuvarının amacı ve yaklaşımı."
+---
+
+## Amacımız
+
+**Teknoloji, Göç, Demografi ve Eğitim Araştırmaları Laboratuvarı (TIDE Lab)**, günümüz ekonomilerini dönüştüren güçleri ve bu dönüşümün ortaya çıkardığı politika tercihlerini araştırır.
+
+Geleneksel alan sınırlarını aşan sorulara odaklanıyoruz: Teknolojik değişim emek talebini nasıl dönüştürüyor? Göç ve demografik geçişler ekonomik uyumu nasıl etkiliyor? Eğitim becerileri, hareketliliği ve fırsatları nasıl şekillendiriyor? Amacımız, bu tür sorular üzerine dikkatli, şeffaf ve politika açısından anlamlı iktisadi araştırmalar üretmektir.
+
+## Çalışma ilkelerimiz
+
+::: {.lab-grid}
+::: {.lab-card}
+### Önce kanıt
+
+Sağlam bulguları çekici anlatılardan ayırmak için iktisat teorisini ve güvenilir ampirik kanıtları kullanırız.
+:::
+
+::: {.lab-card}
+### Açık araştırma
+
+Şeffaf yöntemlere, tekrarlanabilir iş akışlarına ve araştırma sonuçlarının erişilebilir biçimde paylaşılmasına önem veririz.
+:::
+
+::: {.lab-card}
+### Bağlantılı sorular
+
+Teknoloji, göç, demografi ve eğitimi ekonomik değişimin etkileşim içindeki unsurları olarak inceleriz.
+:::
+
+::: {.lab-card}
+### Politika odağı
+
+Kanıtların sınırlarını aşmadan, araştırma sonuçlarını kamusal tartışmayı besleyebilecek çıkarımlara dönüştürürüz.
+:::
+:::
+
+## Kurumsal yapı
+
+TIDE Lab, İstanbul'daki **İstanbul Medeniyet Üniversitesi** bünyesinde faaliyet gösteren bir araştırma grubudur.

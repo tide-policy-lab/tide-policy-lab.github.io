@@ -1,0 +1,15 @@
+---
+title: "İletişim"
+description: "İstanbul Medeniyet Üniversitesi TIDE Lab iletişim bilgileri."
+---
+
+## TIDE Lab
+
+Teknoloji, Göç, Demografi ve Eğitim Araştırmaları Laboratuvarı  
+İstanbul Medeniyet Üniversitesi  
+İstanbul, Türkiye
+
+**Yürütücü:** Murat Taşdemir  
+**E-posta:** [murat.tasdemir@medeniyet.edu.tr](mailto:murat.tasdemir@medeniyet.edu.tr)
+
+Araştırma güncellemeleri ve açık depolar için [GitHub'daki TIDE Lab organizasyonunu](https://github.com/tide-policy-lab) ziyaret edebilirsiniz.

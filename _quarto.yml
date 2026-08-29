@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "people/*.qmd"
+    - "!tr/**"
+
+lang: en
+
+website:
+  title: "TIDE Lab"
+  site-url: "https://tide-policy-lab.github.io"
+  description: "Technology, Immigration, Demography and Education Research Lab at Istanbul Medeniyet University."
+  search: true
+  navbar:
+    pinned: true
+    left:
+      - text: About
+        href: about.qmd
+      - text: People
+        href: people/index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - text: "TR"
+        aria-label: "Türkçe site"
+        href: tr/index.html
+      - icon: github
+        aria-label: "TIDE Lab on GitHub"
+        href: https://github.com/tide-policy-lab
+  page-footer:
+    left: "© 2026 TIDE Lab"
+    center: "Istanbul Medeniyet University"
+    right:
+      - text: GitHub
+        href: https://github.com/tide-policy-lab
+
+format:
+  html:
+    theme:
+      - litera
+      - theme.scss
+    embed-resources: true
+    link-external-newwindow: true
+    anchor-sections: true
+    smooth-scroll: true

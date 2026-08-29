@@ -1,0 +1,15 @@
+---
+title: "Publications"
+description: "Publications, working papers, and research outputs from TIDE Lab."
+---
+
+This page will collect publications, working papers, policy notes, datasets, and other research outputs associated with TIDE Lab.
+
+## Coming next
+
+The publication list will be added after member profiles and the lab's inclusion policy are confirmed. Each record can include the authors, year, abstract, publication status, DOI, replication materials, and a link to the paper.
+
+::: {.tide-note}
+No publications are attributed to TIDE Lab in this initial release. This avoids assigning existing work to the lab before the team confirms the appropriate scope.
+:::
+

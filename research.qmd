@@ -1,0 +1,28 @@
+---
+title: "Research"
+description: "TIDE Lab's research themes and emerging programme."
+---
+
+TIDE Lab develops research at the intersection of four broad themes. Economics provides our shared analytical framework. The agenda below is an initial structure; individual project pages will document specific questions, methods, collaborators, outputs, and status as projects are launched.
+
+## Technology and work
+
+We study how new technologies affect firms, workers, skills, productivity, and the distribution of economic opportunity. This theme includes both adoption decisions and the adjustment processes that follow technological change.
+
+## Immigration and mobility
+
+We examine why people move, how migrants integrate into destination economies, and how mobility affects workers, firms, households, and local labour markets in both origin and destination regions.
+
+## Demographic transitions
+
+Our demographic research considers population ageing, fertility, family formation, and intergenerational change, with particular attention to their implications for labour supply, public finance, and economic growth.
+
+## Education and human capital
+
+We study how education shapes skills, economic mobility, and opportunity across generations. This theme includes educational access and attainment, human-capital formation, and the links between education, technology, migration, and demographic change.
+
+Across all four themes, we ask how institutions and public policy shape adaptation, distributional outcomes, and social welfare. Our approach combines economic reasoning with transparent empirical analysis.
+
+::: {.tide-note}
+Project summaries and associated working papers will appear here as the lab's research programme develops.
+:::

@@ -1,0 +1,42 @@
+---
+title: "About TIDE"
+description: "The mission and approach of the Technology, Immigration, Demography and Education Research Lab."
+---
+
+## Our mission
+
+The **Technology, Immigration, Demography and Education Research Lab (TIDE Lab)** studies the forces transforming contemporary economies and the policy choices they create.
+
+We focus on questions that cross conventional field boundaries. How does technological change alter labour demand? How do migration and demographic transitions affect adjustment? How does education shape skills, mobility, and opportunity? Our aim is to produce careful, transparent, and policy-relevant economic research on questions such as these.
+
+## How we work
+
+::: {.lab-grid}
+::: {.lab-card}
+### Evidence first
+
+We use economic theory and credible empirical evidence to distinguish robust findings from appealing narratives.
+:::
+
+::: {.lab-card}
+### Open research
+
+We value transparent methods, reproducible workflows, and accessible communication of research results.
+:::
+
+::: {.lab-card}
+### Connected questions
+
+We examine technology, migration, demography, and education as interacting drivers of economic change.
+:::
+
+::: {.lab-card}
+### Policy relevance
+
+We translate research into insights that can inform public discussion without overstating what the evidence supports.
+:::
+:::
+
+## Institutional home
+
+TIDE Lab is a research group based at **Istanbul Medeniyet University** in Istanbul, Türkiye.

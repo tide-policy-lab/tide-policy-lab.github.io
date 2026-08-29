@@ -1,0 +1,68 @@
+---
+title: "TIDE Lab"
+title-block-banner: false
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-eyebrow}
+Teknoloji · Göç · Demografi · Eğitim
+:::
+
+# Ekonomik değişimi gerçekleşirken araştırıyoruz
+
+::: {.lead}
+TIDE Lab; teknoloji, göç, demografi ve eğitimin ekonomileri, işgücü piyasalarını ve kamu politikalarını nasıl şekillendirdiğini araştıran bilim insanlarını bir araya getirir.
+:::
+
+::: {.hero-actions}
+[Araştırmalarımız](research.qmd){.button-primary}
+[Ekibimiz](people.qmd){.button-secondary}
+:::
+:::
+
+## Birbiriyle bağlantılı dört araştırma alanı
+
+Çalışmalarımız; teknoloji, nüfus hareketleri, demografik değişim ve eğitimin birbirinden bağımsız ele alınamayacağı düşüncesinden hareket eder. TIDE, bu alanları kapsayan kanıta dayalı araştırmalar için ortak bir zemin oluşturur.
+
+::: {.lab-grid}
+::: {.lab-card}
+::: {.card-number}
+T
+:::
+### Teknoloji
+
+Teknolojik yeniliklerin benimsenmesi, verimlilik, çalışma hayatı, beceriler ve ekonomik fırsatların dağılımı.
+:::
+
+::: {.lab-card}
+::: {.card-number}
+I
+:::
+### Göç
+
+Göç kararları, uyum süreçleri, işgücü piyasalarının tepkisi ve hareketliliğin ekonomik etkileri.
+:::
+
+::: {.lab-card}
+::: {.card-number}
+D
+:::
+### Demografi
+
+Nüfusun yaşlanması, doğurganlık, hane oluşumu ve kuşaklar arası değişim.
+:::
+
+::: {.lab-card}
+::: {.card-number}
+E
+:::
+### Eğitim
+
+Eğitime erişim, beceriler, beşerî sermaye oluşumu, kuşaklar arası hareketlilik ve fırsat eşitliği.
+:::
+:::
+
+## İstanbul'da yeni bir araştırma topluluğu
+
+TIDE Lab, **İstanbul Medeniyet Üniversitesi** bünyesinde faaliyet göstermektedir. İlk sürümümüz laboratuvarı ve araştırma gündemini tanıtmaktadır. Projeler, çalışma tebliğleri, etkinlikler ve araştırma kaynakları program geliştikçe eklenecektir.

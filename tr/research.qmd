@@ -1,0 +1,28 @@
+---
+title: "Araştırma"
+description: "TIDE Lab araştırma alanları ve gelişen araştırma programı."
+---
+
+TIDE Lab, birbiriyle bağlantılı dört geniş alanda araştırma geliştirir. İktisat, ortak analitik çerçevemizi oluşturur. Aşağıdaki gündem başlangıç yapımızı göstermektedir. Projeler başladıkça araştırma soruları, yöntemler, iş birlikleri, çıktılar ve proje durumları ayrı sayfalarda belgelenecektir.
+
+## Teknoloji ve çalışma hayatı
+
+Yeni teknolojilerin firmaları, çalışanları, becerileri, verimliliği ve ekonomik fırsatların dağılımını nasıl etkilediğini inceliyoruz.
+
+## Göç ve hareketlilik
+
+İnsanların neden göç ettiğini, göçmenlerin hedef ekonomilere nasıl uyum sağladığını ve hareketliliğin kaynak ve hedef bölgelerdeki çalışanları, firmaları, haneleri ve yerel işgücü piyasalarını nasıl etkilediğini araştırıyoruz.
+
+## Demografik dönüşümler
+
+Nüfusun yaşlanması, doğurganlık, aile oluşumu ve kuşaklar arası değişimin emek arzı, kamu maliyesi ve ekonomik büyüme üzerindeki etkilerini ele alıyoruz.
+
+## Eğitim ve beşerî sermaye
+
+Eğitimin becerileri, ekonomik hareketliliği ve kuşaklar arası fırsatları nasıl şekillendirdiğini inceliyoruz. Bu alan; eğitime erişim ve eğitim kazanımları, beşerî sermaye oluşumu ile eğitimin teknoloji, göç ve demografik değişimle bağlantılarını kapsar.
+
+Dört alanın tamamında kurumların ve kamu politikalarının uyum süreçlerini, bölüşüm sonuçlarını ve toplumsal refahı nasıl şekillendirdiğini araştırıyoruz. Yaklaşımımız iktisadi düşünceyi şeffaf ampirik analizle birleştirir.
+
+::: {.tide-note}
+Laboratuvarın araştırma programı geliştikçe proje özetleri ve ilgili çalışma tebliğleri bu sayfaya eklenecektir.
+:::

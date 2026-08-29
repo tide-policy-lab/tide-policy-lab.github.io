@@ -1,0 +1,15 @@
+---
+title: "Contact"
+description: "Contact TIDE Lab at Istanbul Medeniyet University."
+---
+
+## TIDE Lab
+
+Technology, Immigration, Demography and Education Research Lab  
+Istanbul Medeniyet University  
+Istanbul, Türkiye
+
+**Principal Investigator:** Murat Taşdemir  
+**Email:** [murat.tasdemir@medeniyet.edu.tr](mailto:murat.tasdemir@medeniyet.edu.tr)
+
+For research updates and public repositories, visit the [TIDE Lab organization on GitHub](https://github.com/tide-policy-lab).

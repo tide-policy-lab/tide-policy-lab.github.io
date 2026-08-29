@@ -1,0 +1,9 @@
+---
+title: "Yayınlar"
+description: "TIDE Lab yayınları, çalışma tebliğleri ve araştırma çıktıları."
+---
+
+Bu sayfada TIDE Lab ile ilişkili yayınlar, çalışma tebliğleri, politika notları, veri setleri ve diğer araştırma çıktıları yer alacaktır.
+
+Yayın listesi, üye profilleri ve laboratuvarın yayın kapsamı kesinleştirildikten sonra eklenecektir. İlk sürümde mevcut çalışmalar laboratuvara atfedilmemektedir.
+

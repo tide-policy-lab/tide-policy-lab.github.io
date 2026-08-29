@@ -1,0 +1,228 @@
+/*-- scss:defaults --*/
+$primary: #0b5364;
+$secondary: #59747b;
+$body-color: #223238;
+$body-bg: #fbfcfa;
+$link-color: #0b6577;
+$headings-color: #123943;
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", sans-serif;
+$headings-font-family: Georgia, "Times New Roman", serif;
+$headings-font-weight: 600;
+$navbar-padding-y: 0.9rem;
+$border-radius: 0.35rem;
+
+/*-- scss:rules --*/
+:root {
+  --tide-navy: #123943;
+  --tide-teal: #0b6577;
+  --tide-sea: #dcecef;
+  --tide-sand: #f2eadc;
+  --tide-coral: #d26a4a;
+}
+
+body {
+  line-height: 1.7;
+}
+
+.navbar {
+  background: rgba(251, 252, 250, 0.96);
+  border-bottom: 1px solid rgba(18, 57, 67, 0.12);
+  backdrop-filter: blur(12px);
+}
+
+.navbar-brand {
+  color: var(--tide-navy) !important;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.navbar-nav .nav-link {
+  color: #344c53 !important;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: var(--tide-teal) !important;
+}
+
+.hero {
+  background:
+    radial-gradient(circle at 82% 20%, rgba(210, 106, 74, 0.16), transparent 24rem),
+    linear-gradient(130deg, #edf6f6 0%, #fbfcfa 56%, #f6eee2 100%);
+  border: 1px solid rgba(11, 83, 100, 0.1);
+  border-radius: 0.8rem;
+  margin: 1.5rem 0 3rem;
+  overflow: hidden;
+  padding: clamp(2.4rem, 6vw, 5.5rem);
+  position: relative;
+}
+
+.hero::after {
+  background: var(--tide-teal);
+  bottom: 0;
+  content: "";
+  height: 0.35rem;
+  left: 0;
+  position: absolute;
+  width: 34%;
+}
+
+.hero .hero-eyebrow {
+  color: var(--tide-teal);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  font-size: clamp(2.5rem, 7vw, 5.2rem);
+  letter-spacing: -0.035em;
+  line-height: 1.02;
+  margin: 0 0 1.4rem;
+  max-width: 13ch;
+}
+
+.hero .lead {
+  color: #425c63;
+  font-size: clamp(1.05rem, 2vw, 1.3rem);
+  max-width: 42rem;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 2rem;
+}
+
+.button-primary,
+.button-secondary {
+  border-radius: 0.25rem;
+  display: inline-block;
+  font-weight: 700;
+  padding: 0.75rem 1.15rem;
+  text-decoration: none;
+}
+
+.button-primary {
+  background: var(--tide-teal);
+  color: white;
+}
+
+.button-primary:hover {
+  background: var(--tide-navy);
+  color: white;
+}
+
+.button-secondary {
+  border: 1px solid rgba(18, 57, 67, 0.3);
+  color: var(--tide-navy);
+}
+
+.button-secondary:hover {
+  background: white;
+  color: var(--tide-teal);
+}
+
+.section-intro {
+  color: #52686e;
+  font-size: 1.1rem;
+  max-width: 46rem;
+}
+
+.lab-grid {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin: 1.6rem 0 3rem;
+}
+
+.lab-card {
+  background: white;
+  border: 1px solid rgba(18, 57, 67, 0.12);
+  border-radius: 0.55rem;
+  box-shadow: 0 10px 30px rgba(18, 57, 67, 0.05);
+  padding: 1.4rem;
+}
+
+.lab-card h3 {
+  font-family: $font-family-sans-serif;
+  font-size: 1.05rem;
+  font-weight: 750;
+  margin-top: 0;
+}
+
+.lab-card p:last-child {
+  margin-bottom: 0;
+}
+
+.card-number {
+  color: var(--tide-coral);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 0.8rem;
+}
+
+.member-card {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 4rem 1fr;
+}
+
+.member-mark {
+  align-items: center;
+  background: var(--tide-sea);
+  border-radius: 50%;
+  color: var(--tide-navy);
+  display: flex;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  height: 4rem;
+  justify-content: center;
+  width: 4rem;
+}
+
+.member-role {
+  color: var(--tide-teal);
+  font-size: 0.82rem;
+  font-weight: 750;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.tide-note {
+  background: var(--tide-sand);
+  border-left: 0.3rem solid var(--tide-coral);
+  margin: 2rem 0;
+  padding: 1.1rem 1.25rem;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(120deg, #e8f2f3, #f8f4ec);
+}
+
+.nav-footer {
+  border-top: 1px solid rgba(18, 57, 67, 0.12);
+  color: #53696f;
+  margin-top: 4rem;
+}
+
+@media (max-width: 600px) {
+  .hero {
+    padding: 2.2rem 1.4rem;
+  }
+
+  .member-card {
+    grid-template-columns: 1fr;
+  }
+}
+

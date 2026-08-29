@@ -1,0 +1,72 @@
+---
+title: "TIDE Lab"
+title-block-banner: false
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-eyebrow}
+Technology · Immigration · Demography · Education
+:::
+
+# Studying economic change as it unfolds
+
+::: {.lead}
+TIDE Lab brings together researchers studying how technology, migration, demography, and education reshape economies, labour markets, and public policy.
+:::
+
+::: {.hero-actions}
+[Explore our research](research.qmd){.button-primary}
+[Meet the team](people/index.qmd){.button-secondary}
+:::
+:::
+
+## Four connected research themes
+
+Our work starts from the premise that technology, population movements, demographic change, and education cannot be understood in isolation. TIDE creates a common space for evidence-driven research across these fields.
+
+::: {.lab-grid}
+::: {.lab-card}
+::: {.card-number}
+T
+:::
+### Technology
+
+Technological adoption, productivity, work, skills, and the distribution of economic opportunity.
+:::
+
+::: {.lab-card}
+::: {.card-number}
+I
+:::
+### Immigration
+
+Migration decisions, integration, labour-market adjustment, and the economic effects of mobility.
+:::
+
+::: {.lab-card}
+::: {.card-number}
+D
+:::
+### Demography
+
+Population ageing, fertility, household formation, and intergenerational change.
+:::
+
+::: {.lab-card}
+::: {.card-number}
+E
+:::
+### Education
+
+Education, skills, human-capital formation, intergenerational mobility, and equality of opportunity.
+:::
+:::
+
+## A new research community in Istanbul
+
+TIDE Lab is based at **Istanbul Medeniyet University**. Our first release introduces the lab and its research agenda; projects, working papers, events, and research resources will be added as the programme develops.
+
+::: {.tide-note}
+**Interested in our work?** Visit the [contact page](contact.qmd) to reach the lab or explore our public work on [GitHub](https://github.com/tide-policy-lab).
+:::

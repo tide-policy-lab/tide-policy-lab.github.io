@@ -1,0 +1,76 @@
+---
+title: "Ekip"
+description: "TIDE Lab üyeleri."
+---
+
+TIDE Lab'ın dört üyesi de İstanbul Medeniyet Üniversitesi İktisat Bölümünde tam zamanlı öğretim üyesidir.
+
+::: {.lab-grid}
+::: {.lab-card .member-card}
+::: {.member-mark}
+MT
+:::
+::: {}
+### Prof. Dr. Murat Taşdemir
+
+::: {.member-role}
+Yürütücü · Profesör
+:::
+
+İktisat Profesörü, İstanbul Medeniyet Üniversitesi.
+
+[E-posta](mailto:murat.tasdemir@medeniyet.edu.tr) · [Google Scholar](https://scholar.google.com/citations?user=KSkQcE8AAAAJ&hl=en) · [GitHub](https://github.com/tide-policy-lab)
+:::
+:::
+
+::: {.lab-card .member-card}
+::: {.member-mark}
+HK
+:::
+::: {}
+### Prof. Dr. Hüseyin Kaya
+
+::: {.member-role}
+Araştırmacı · Profesör
+:::
+
+İstanbul Medeniyet Üniversitesi İktisat Bölümü öğretim üyesi.
+
+[Google Scholar](https://scholar.google.com/citations?user=rEf2MKwAAAAJ&hl=tr)
+:::
+:::
+
+::: {.lab-card .member-card}
+::: {.member-mark}
+DD
+:::
+::: {}
+### Doç. Dr. Dinçer Dedeoğlu
+
+::: {.member-role}
+Araştırmacı · Doçent
+:::
+
+İstanbul Medeniyet Üniversitesi İktisat Bölümü öğretim üyesi.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=AOvtNZYAAAAJ)
+:::
+:::
+
+::: {.lab-card .member-card}
+::: {.member-mark}
+ÖS
+:::
+::: {}
+### Dr. Öğr. Üyesi Özer Selçuk
+
+::: {.member-role}
+Araştırmacı · Doktor Öğretim Üyesi
+:::
+
+İstanbul Medeniyet Üniversitesi İktisat Bölümü öğretim üyesi.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=QOOQkaAAAAAJ)
+:::
+:::
+:::
